@@ -100,3 +100,7 @@ hr {
       border: 2px solid rgb(100, 99, 67);
       box-shadow: 2px 2px 2px -2px silver;
   }
+
+  .foot{
+      background-color: antiquewhite;
+  }
