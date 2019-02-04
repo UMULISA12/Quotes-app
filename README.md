@@ -13,7 +13,7 @@ Internet
 Text-editor
 
 ## link to live site on GitHub Pages
-
+ https://umulisa12.github.io/Quotes-app/
 
 ## copyright and license information
 This work is licensed under MIT License © 2018 Quotes-app. All Rights Reserved
