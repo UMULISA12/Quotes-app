@@ -42,7 +42,7 @@
         <div *ngFor='let quote of quotes;let i = index'>
            
         <div class="view-button">
-            <!-- <p class="quote">{{quote.quote}}<br>due on {{quote.completeDate|date|uppercase}}</p> -->
+            <p class="quote">{{quote.quote}}<br>due on {{quote.completeDate|date|uppercase}}</p>
             <button  (click)='toogleDetails(i)' class="btn btn-primary">View details</button>
         </div>
         
