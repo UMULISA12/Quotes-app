@@ -1,0 +1,21 @@
+
+
+
+<p>Author: {{quote.author}}</p> 
+<p>Publisher: {{quote.writter}}</p> 
+<p>Upvote  {{quote.upvote}}
+    Downvote {{quote.downvote}} </p>
+    <div class="button">
+<button (click)='quoteComplete(true)' class="btn1 btn-danger"> Delete </button>&nbsp;
+<button (click)='quoteUpvote()' class="btn btn-success"><img src="https://png.pngtree.com/svg/20161205/upvote_25309.png" width="48px" height="29px"></button> &nbsp;
+<button (click)='quoteDownvote()' class="btn btn-success"><img src="https://cdn2.iconfinder.com/data/icons/solid-glyphs-volume-1/256/dislike-512.png" width="50px" height="30px"> </button>
+</div>
+
+
+<!-- <p> {{quote.quote}}</p> 
+<p>{{quote.writter}}</p> 
+<p> Upvote  {{quote.upvote}}
+    Downvote {{quote.downvote}} </p>
+<button (click)='quoteComplete(true)' class="btn btn-danger"> Delete </button>
+<button (click)='quoteUpvote()' class="btn btn-success"> Upvote </button>
+<button (click)='quoteDownvote()' class="btn btn-success"> Downvote </button> -->

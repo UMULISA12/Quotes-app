@@ -1,0 +1,14 @@
+form{
+    background-color:rgb(100, 99, 67);
+    padding: 20px;
+    margin-left: 300px;
+    width: 500px;
+}
+.btn{
+    background-color: beige;
+    color: rgb(100, 99, 67);
+}
+
+label{
+    color: aliceblue;
+}

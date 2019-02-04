@@ -1,0 +1,24 @@
+p{
+    text-align: center;
+    color: aliceblue;
+}
+.button{
+   text-align: center;
+
+}
+.vote{
+    background-color: beige;
+}
+
+.btn{
+    background-color: beige;
+    color: gray;
+     border: white;
+}
+.btn1{
+    background-color: hotpink;
+    height: 40px;
+    border: hotpink;
+    width: 70px;
+    border-radius: 1px;
+}
