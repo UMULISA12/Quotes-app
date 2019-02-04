@@ -16,3 +16,4 @@ Text-editor
 
 
 ## copyright and license information
+This work is licensed under MIT License © 2018 Quotes-app. All Rights Reserved
