@@ -104,3 +104,7 @@ hr {
   .foot{
       background-color: antiquewhite;
   }
+
+  .container{
+      text-align: center;
+  }
